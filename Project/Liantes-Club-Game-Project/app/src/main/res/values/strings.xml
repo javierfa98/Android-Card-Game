@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Liante\'s Club The Game</string>
+    <string name="contentCard">Card Image</string>
+    <string name="start_button">Iniciar</string>
+    <string name="flip_button">Girar</string>
+    <string name="next_button">Siguiente</string>
+</resources>
